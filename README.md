@@ -31,13 +31,13 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Bishal</h1>
+<h1 align="center">Hi 👋, I'm Rojan</h1>
 <h3 align="center">A passionate Flutter developer from Nepal</h3>
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Bishal Shrestha<br><br>- 🔭 I’m working as Flutter Developer<br>- 💯 I am interested in Mobile App Development</p>
+<p align="left">I'm Rojan<br><br>- 🔭 I’m working as Flutter Developer<br>- 💯 I am interested in Mobile App Development</p>
 
 ###
 
