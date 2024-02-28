@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bishal-shrestha-29b49926b" target="_blank">
+  <a href="https://www.linkedin.com/in/rojan-parajuli-15692825b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100011715280047" target="_blank">
+  <a href="https://www.facebook.com/rojan.parajuli.104" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://instagram.com/sthabishal12/" target="_blank">
+  <a href="https://instagram.com/rojan_parajuly/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
