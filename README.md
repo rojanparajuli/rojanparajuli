@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Rojan<br><br>- 🔭 I’m working as Flutter Developer<br>- 💯 I am interested in Mobile App Development</p>
+<p align="left">I'm Rojan Parajuli<br><br>- 🔭 I’m working as Flutter Developer<br>- 💯 I am interested in Mobile Application and Web Development</p>
 
 ###
 
