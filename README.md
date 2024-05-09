@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZnd2dsdXo5ZjdsbGh3dDFxNHhhZGx5aWphNG5kYjc5OXQ3bTRmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fuJPZBIIqzbt1kAYVc/giphy.gif" />
+  <img height="200" src="https://innov8tiv.com/wp-content/uploads/2015/02/life-of-programmer-12.gif" />
 </div>
 
 ###
