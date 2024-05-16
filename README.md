@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/dZX3AduGrY3uJ7qCsx/200w.gif?cid=6c09b952lgsxsxje75qgnq1md6ygu6t6plqvf4jgjzhi59ne&ep=v1_gifs_search&rid=200w.gif&ct=g" />
+  <img height="200" src="https://www.hubspot.com/hubfs/Smiling%20Leo%20Perfect%20GIF.gif" />
 </div>
 
 ###
