@@ -21,12 +21,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rojanparajuli&"  />
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rojanparajuli=&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <h1 align="center">Hi 👋, I'm Rojan</h1>
 <h3 align="center">A passionate Flutter developer from Nepal</h3>
 <h3 align="left">👩‍💻  About Me</h3>
