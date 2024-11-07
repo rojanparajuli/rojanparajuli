@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-Hello! I'm **Rojan Parajuli**, a passionate developer with a knack for crafting innovative solutions across multiple platforms. With a strong foundation in both **front-end** and **back-end** development, I love to tackle complex challenges and constantly improve my skills.
+Hello! I'm **Rojan Parajuli**, a passionate developer with a knack for crafting innovative solutions across multiple platforms. With a strong foundation in both **front-end** and **Application** development, I love to tackle complex challenges and constantly improve my skills.
 
 ---
 
@@ -38,7 +38,6 @@ Hello! I'm **Rojan Parajuli**, a passionate developer with a knack for crafting 
 ---
 
 ## 🌐 Connect with Me:
-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rojanparajuli.me)
 - [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rojanparajuli)
 - [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/rojanparajuli)
 
